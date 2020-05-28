@@ -1,0 +1,161 @@
+[
+    {
+        "entry_features": [
+            {
+                "Q577714": "Q3482678"
+            },
+            {
+                "Q577714": "Q14169499"
+            },
+            {
+                "Q577714": "Q1817208"
+            }
+        ],
+        "forms": [
+            []
+        ],
+        "langcode": "en",
+        "language": "Q1860",
+        "name": "Standard English Adjective",
+        "part_of_speech": "Q34698"
+    },
+    {
+        "entry_features": [],
+        "forms": [
+            [
+                "Q110786"
+            ],
+            [
+                "Q146786"
+            ]
+        ],
+        "langcode": "en",
+        "language": "Q1860",
+        "name": "Standard English Noun",
+        "part_of_speech": "Q1084"
+    },
+    {
+        "entry_features": [],
+        "forms": [
+            [
+                "Q110786",
+                "Q131105"
+            ],
+            [
+                "Q131105",
+                "Q146786"
+            ],
+            [
+                "Q110786",
+                "Q146233"
+            ],
+            [
+                "Q146233",
+                "Q146786"
+            ]
+        ],
+        "langcode": "en",
+        "language": "Q1860",
+        "name": "English Noun with Genitive",
+        "part_of_speech": "Q1084"
+    },
+    {
+        "entry_features": [],
+        "forms": [
+            [
+                "Q110786",
+                "Q192613",
+                "Q21714344"
+            ],
+            [
+                "Q146786",
+                "Q1994301",
+                "Q21714344"
+            ],
+            [
+                "Q146786",
+                "Q1994301",
+                "Q51929049"
+            ],
+            [
+                "Q146786",
+                "Q1994301",
+                "Q51929074"
+            ],
+            [
+                "Q110786",
+                "Q192613",
+                "Q51929049"
+            ],
+            [
+                "Q110786",
+                "Q192613",
+                "Q51929074"
+            ],
+            [
+                "Q146786",
+                "Q192613",
+                "Q21714344"
+            ],
+            [
+                "Q146786",
+                "Q192613",
+                "Q51929049"
+            ],
+            [
+                "Q146786",
+                "Q192613",
+                "Q51929074"
+            ],
+            [
+                "Q110786",
+                "Q1994301",
+                "Q21714344"
+            ],
+            [
+                "Q110786",
+                "Q1994301",
+                "Q51929049"
+            ],
+            [
+                "Q110786",
+                "Q1994301",
+                "Q51929074"
+            ],
+            [
+                "Q1994301",
+                "Q814722"
+            ],
+            [
+                "Q179230"
+            ],
+            [
+                "Q1923028"
+            ]
+        ],
+        "langcode": "en",
+        "language": "Q1860",
+        "name": "Standard English Verb with Simple Form Conjugation",
+        "part_of_speech": "Q24905"
+    },
+    {
+        "entry_features": [
+            {
+                "Q577714": "Q3482678"
+            },
+            {
+                "Q577714": "Q14169499"
+            },
+            {
+                "Q577714": "Q1817208"
+            }
+        ],
+        "forms": [
+            []
+        ],
+        "langcode": "en",
+        "language": "Q1860",
+        "name": "Standard English Adverb",
+        "part_of_speech": "Q380057"
+    }
+]

@@ -1,0 +1,501 @@
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+# Standard French Adjective
+
+# SELECT ?focus {?focus dct:language wd:Q150;wikibase:lexicalCategory wd:Q34698}
+
+start = @<fr-n>
+
+<fr-n> {
+  dct:language [ wd:Q150 ] ;
+  wikibase:lexicalCategory [ wd:Q34698 ] ;
+  wikibase:lemma [ @fr ] ;
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    ontolex:representation [ @fr ];
+  };
+}
+
+
+#############
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+# French Noun with 4 Forms (masc/sing, fem/sing, masc/plur, fem/plur)
+
+# SELECT ?focus {?focus dct:language wd:Q150;wikibase:lexicalCategory wd:Q1084}
+
+start = @<fr-n>
+
+<fr-n> {
+  dct:language [ wd:Q150 ] ;
+  wikibase:lexicalCategory [ wd:Q1084 ] ;
+  wikibase:lemma [ @fr ] ;
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    ontolex:representation [ @fr ];
+  };
+}
+
+
+#############
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+# Standard French Noun with Gender at the Entry Level
+
+# SELECT ?focus {?focus dct:language wd:Q150;wikibase:lexicalCategory wd:Q1084}
+
+start = @<fr-n>
+
+<fr-n> {
+  dct:language [ wd:Q150 ] ;
+  wikibase:lexicalCategory [ wd:Q1084 ] ;
+  wikibase:lemma [ @fr ] ;
+  wdt:P5185 [ wd:Q1775415 wd:Q499327 ] ;
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    ontolex:representation [ @fr ];
+  };
+}
+
+
+#############
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+# Standard French Verb with Simple Form Conjugation
+
+# SELECT ?focus {?focus dct:language wd:Q150;wikibase:lexicalCategory wd:Q24905}
+
+start = @<fr-n>
+
+<fr-n> {
+  dct:language [ wd:Q150 ] ;
+  wikibase:lexicalCategory [ wd:Q24905 ] ;
+  wikibase:lemma [ @fr ] ;
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q22716 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q22716 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q22716 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q501405 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929074 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q473746 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q21714344 ];
+    wikibase:grammaticalFeature [ wd:Q625581 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q12547192 ];
+    wikibase:grammaticalFeature [ wd:Q51929049 ];
+    wikibase:grammaticalFeature [ wd:Q682111 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    wikibase:grammaticalFeature [ wd:Q814722 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q499327 ];
+    wikibase:grammaticalFeature [ wd:Q814722 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q110786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q814722 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q146786 ];
+    wikibase:grammaticalFeature [ wd:Q1775415 ];
+    wikibase:grammaticalFeature [ wd:Q1994301 ];
+    wikibase:grammaticalFeature [ wd:Q814722 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q179230 ];
+    ontolex:representation [ @fr ];
+  };
+  ontolex:lexicalForm {
+    wikibase:grammaticalFeature [ wd:Q192613 ];
+    wikibase:grammaticalFeature [ wd:Q814722 ];
+    ontolex:representation [ @fr ];
+  };
+}
+
+
+#############
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+# Standard French Adverb
+
+# SELECT ?focus {?focus dct:language wd:Q150;wikibase:lexicalCategory wd:Q380057}
+
+start = @<fr-n>
+
+<fr-n> {
+  dct:language [ wd:Q150 ] ;
+  wikibase:lexicalCategory [ wd:Q380057 ] ;
+  wikibase:lemma [ @fr ] ;
+  ontolex:lexicalForm {
+    ontolex:representation [ @fr ];
+  };
+}
