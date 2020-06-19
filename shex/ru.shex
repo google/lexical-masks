@@ -16,7 +16,7 @@ start = @<ru-n>
   wikibase:lemma [ @ru ] ;
   wdt:Q577714 [ wd:Q14169499 ] ;
   ontolex:lexicalForm {
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
 }
@@ -44,288 +44,288 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q131105 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146233 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q145599 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146078 ];
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q110786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775415 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
     wikibase:grammaticalFeature [ wd:Q146786 ];
     wikibase:grammaticalFeature [ wd:Q1775461 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
 }
@@ -597,7 +597,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -606,7 +606,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -615,7 +615,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -624,7 +624,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -633,7 +633,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -642,7 +642,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -651,7 +651,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -660,7 +660,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -669,7 +669,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -678,7 +678,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -687,7 +687,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -696,7 +696,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -705,7 +705,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -714,7 +714,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -723,7 +723,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -732,7 +732,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -741,7 +741,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -750,7 +750,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -759,7 +759,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -768,7 +768,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -777,7 +777,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -786,7 +786,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -795,7 +795,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -804,7 +804,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -813,7 +813,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -822,7 +822,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -831,7 +831,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -840,7 +840,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -849,7 +849,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -858,7 +858,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -867,7 +867,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -876,7 +876,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -885,7 +885,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -894,7 +894,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -903,7 +903,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -912,7 +912,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -921,7 +921,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -930,7 +930,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -939,7 +939,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -948,7 +948,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -957,7 +957,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -966,7 +966,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -975,7 +975,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -984,7 +984,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -993,7 +993,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1002,7 +1002,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1011,7 +1011,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1020,7 +1020,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1029,7 +1029,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1038,7 +1038,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1047,7 +1047,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1056,7 +1056,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1065,7 +1065,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1074,7 +1074,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1083,7 +1083,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1092,7 +1092,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1101,7 +1101,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1110,7 +1110,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1119,7 +1119,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1128,7 +1128,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1137,7 +1137,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1146,7 +1146,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1155,7 +1155,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1164,7 +1164,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1173,7 +1173,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1182,7 +1182,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1191,7 +1191,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1200,7 +1200,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1209,7 +1209,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1218,7 +1218,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1227,7 +1227,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1236,7 +1236,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1271,7 +1271,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1279,7 +1279,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1287,7 +1287,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1295,7 +1295,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1303,7 +1303,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1311,7 +1311,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1319,7 +1319,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1327,7 +1327,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1335,7 +1335,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1343,7 +1343,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1351,7 +1351,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1359,7 +1359,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1459,7 +1459,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1468,7 +1468,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1477,7 +1477,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1486,7 +1486,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1495,7 +1495,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1504,7 +1504,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1513,7 +1513,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1522,7 +1522,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1531,7 +1531,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1540,7 +1540,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1549,7 +1549,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1558,7 +1558,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1567,7 +1567,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1576,7 +1576,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1585,7 +1585,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1594,7 +1594,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1603,7 +1603,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1612,7 +1612,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1621,7 +1621,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1630,7 +1630,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1639,7 +1639,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1648,7 +1648,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1657,7 +1657,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1666,7 +1666,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1675,7 +1675,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1684,7 +1684,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1693,7 +1693,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1702,7 +1702,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1711,7 +1711,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1720,7 +1720,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1729,7 +1729,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1738,7 +1738,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1747,7 +1747,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1756,7 +1756,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1765,7 +1765,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1774,7 +1774,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1783,7 +1783,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1792,7 +1792,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1801,7 +1801,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1810,7 +1810,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1819,7 +1819,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1828,7 +1828,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1837,7 +1837,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1846,7 +1846,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1855,7 +1855,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1864,7 +1864,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1873,7 +1873,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1882,7 +1882,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1891,7 +1891,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1900,7 +1900,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1909,7 +1909,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1918,7 +1918,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1927,7 +1927,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1936,7 +1936,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1945,7 +1945,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1954,7 +1954,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1963,7 +1963,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1972,7 +1972,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1981,7 +1981,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1990,7 +1990,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -1999,7 +1999,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2008,7 +2008,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2017,7 +2017,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2026,7 +2026,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2035,7 +2035,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2044,7 +2044,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2053,7 +2053,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2062,7 +2062,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2071,7 +2071,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2080,7 +2080,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2089,7 +2089,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q192997 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2098,7 +2098,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q192613 ];
     wikibase:grammaticalFeature [ wd:Q2114906 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406455 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2133,7 +2133,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2141,7 +2141,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2149,7 +2149,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2157,7 +2157,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q499327 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2165,7 +2165,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775415 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
@@ -2173,7 +2173,7 @@ start = @<ru-n>
     wikibase:grammaticalFeature [ wd:Q1775461 ];
     wikibase:grammaticalFeature [ wd:Q1994301 ];
     wikibase:grammaticalFeature [ wd:Q814722 ];
-    wikibase:grammaticalFeature [ wd:__unknown__ ];
+    wikibase:grammaticalFeature [ wd:Q96406487 ];
     ontolex:representation [ @ru ];
   };
   ontolex:lexicalForm {
